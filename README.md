@@ -47,3 +47,9 @@ $skill-installer install https://github.com/lshthu2026-arch/travel-guide-pdf/tre
 
 ## License
 MIT
+## 数据与许可
+
+- **代码**：基于 MIT 许可，可自由使用、修改、再分发。
+- **地图底图**：来自高德地图（AutoNavi）。商用或大规模使用前，请遵守高德开放平台的使用条款，并自行申请对应的 key / 授权。本技能不代授高德数据。
+- **图片**：来自 Wikimedia Commons，作者与许可信息已在生成时写入 manifest；CC-BY 图片请在成品中保留署名。
+- **攻略信息**：仅作参考，出行前请以官方/平台最新信息为准。
