@@ -1,0 +1,22 @@
+{
+  "singles": [
+    "bund2",
+    "sj_b",
+    "xlb_b",
+    "hsr_c"
+  ],
+  "collages": {
+    "col_yuyuan.jpg": [
+      "yuyuan",
+      "chenghuang"
+    ],
+    "col_xlb.jpg": [
+      "xiaolongbao",
+      "xlb_b"
+    ],
+    "col_hsr.jpg": [
+      "hongshaorou",
+      "hsr_c"
+    ]
+  }
+}

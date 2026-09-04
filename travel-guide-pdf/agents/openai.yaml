@@ -1,0 +1,4 @@
+interface:
+  display_name: "图文旅行攻略 PDF"
+  short_description: "提问后自动产出图文攻略 PDF"
+  default_prompt: "Use $skill-name 先提问旅行需求，再自动制作一份图文并茂的攻略 PDF。"
