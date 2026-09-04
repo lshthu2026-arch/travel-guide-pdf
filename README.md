@@ -12,7 +12,10 @@
 4. 杂志式排版输出 A4 中文 PDF，逐页校验
 
 ## 效果展示
-（放 1-2 张成品 PDF 截图，这是最吸引加星的地方，一定放！）
+<img width="973" height="1304" alt="屏幕截图 2026-09-04 173058" src="https://github.com/user-attachments/assets/d2af5cab-5561-4c52-830d-adff6e67b1b1" />
+<img width="968" height="1305" alt="屏幕截图 2026-09-04 173212" src="https://github.com/user-attachments/assets/18494fc9-4ad9-4ae5-8049-65c22393388c" />
+<img width="958" height="1329" alt="屏幕截图 2026-09-04 173224" src="https://github.com/user-attachments/assets/cce64bf1-673c-4d23-a579-23e8acd203ec" />
+
 
 ## 两种获取方式
 
