@@ -2,7 +2,7 @@
 
 > 把一句旅行需求自动变成图文并茂、可打印的中文 PDF 攻略。
 
-![GitHub stars](https://img.shields.io/github/stars/lshu2026-arch/travel-guide-pdf)
+![GitHub stars](https://img.shields.io/github/stars/lshthu2026-arch/travel-guide-pdf)
 
 ## 这是什么
 给 AI 助手（Codex）用的 **Skill**。说一句旅行需求，它自动完成：
@@ -20,14 +20,14 @@
 点仓库右上角绿色 `Code` → `Download ZIP`；或用 git：
 
 ```bash
-git clone https://github.com/lshu2026-arch/travel-guide-pdf.git
+git clone https://github.com/lshthu2026-arch/travel-guide-pdf.git
 ```
 
 ### 🤖 方式二：让 AI 帮你安装
 在 Codex 里直接说：
 
 ```text
-$skill-installer install https://github.com/lshu2026-arch/travel-guide-pdf/tree/main/travel-guide-pdf
+$skill-installer install https://github.com/lshthu2026-arch/travel-guide-pdf/tree/main/travel-guide-pdf
 ```
 
 装完重启 Codex，然后说"帮我做一份上海两日游攻略"就能用。
